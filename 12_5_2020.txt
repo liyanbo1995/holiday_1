@@ -52,6 +52,10 @@ Doctype作用：	1. Doctype是一种声明，位于标签之前。可以告知�
 		menu：主要用于交互菜单（曾被废弃又被重新启用的元素）。
 		command：用来处理命令按钮。
 
+移除的元素：
+纯表现的元素u、big、center、strike、tt、font、basefont
+框架集frame、frameset、noframes
+
 5. 你做的网页在哪些浏览器测试过,这些浏览器的内核分别是什么?
 
 		a、 IE: trident 内核
